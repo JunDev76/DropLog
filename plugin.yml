@@ -1,0 +1,6 @@
+name: DropLog
+main: JUNKR\DropLog
+version: 1.0.0
+author: JUNKR
+api:
+  - 3.0.0

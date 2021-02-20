@@ -1,0 +1,11 @@
+---
+
+#Records only when the OP drops an item.
+#OP가 아이템을 떨어 뜨렸을 때만 기록합니다.
+op-only: true
+
+#Send message to OP
+#OP에게도 메시지를 보내기
+sendmessage-op: true
+
+...
