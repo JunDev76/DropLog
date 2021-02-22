@@ -6,6 +6,6 @@ op-only: true
 
 #Send message to OP
 #OP에게도 메시지를 보내기
-sendmessage-op: true
+sendmessage-op: false
 
 ...
